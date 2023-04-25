@@ -10,8 +10,8 @@ while try_again != "n":
     # write line 1
     my_file.write("Enter line: Beautiful is better than ugly.")
     # write line 2
-    
-    
+    line_2 = "\nEnter line: Explicit is better than Implicit."
+    my_file.write(line_2)
     # write line 3
    
     
