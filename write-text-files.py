@@ -6,9 +6,9 @@
 try_again = ""
 while try_again != "n":
     # open text file
-     my_file = open("mylife.txt", "w")
+    my_file = open("mylife.txt", "w")
     # write line 1
-   
+    my_file.write("Enter line: Beautiful is better than ugly.")
     # write line 2
     
     
