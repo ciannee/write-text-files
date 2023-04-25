@@ -3,7 +3,8 @@
 # Assignment 4: Programming Exercise 3 (Multiple Line of Text Contents into a Text File)
 
 # while loop
-
+try_again = ""
+while try_again != "n":
     # open text file
     
     # write line 1
