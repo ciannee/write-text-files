@@ -31,3 +31,5 @@ while try_again != "n":
         bye = pyfiglet.figlet_format("Okay, bye!")
         print("\n" + bye)
     # if invalid input
+    else:
+        print("invalid output.")
