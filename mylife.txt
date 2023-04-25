@@ -1,0 +1,3 @@
+Enter line: Beautiful is better than ugly.
+Enter line: Explicit is better than Implicit.
+Enter line: Simple is better than complex.
