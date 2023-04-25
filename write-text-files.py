@@ -25,5 +25,9 @@ while try_again != "n":
         import time
         time.sleep(2)
     # if no
-   
+    elif try_again == "n":
+        import time
+        time.sleep(2)
+        bye = pyfiglet.figlet_format("Okay, bye!")
+        print("\n" + bye)
     # if invalid input
