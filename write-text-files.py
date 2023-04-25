@@ -16,7 +16,7 @@ while try_again != "n":
     line_3 = "\nEnter line: Simple is better than complex."
     my_file.write(line_3)
     # ask user for input
-   
+    try_again = input("\n\033[35mAre there any more lines y/n? ")
     # if yes
     
     # if no
