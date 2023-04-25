@@ -18,7 +18,12 @@ while try_again != "n":
     # ask user for input
     try_again = input("\n\033[35mAre there any more lines y/n? ")
     # if yes
-    
+    if try_again == "y":
+        import pyfiglet
+        starting = pyfiglet.figlet_format("Starting...")
+        print("\n" + starting)
+        import time
+        time.sleep(2)
     # if no
    
     # if invalid input
