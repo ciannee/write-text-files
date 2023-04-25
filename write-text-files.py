@@ -6,7 +6,7 @@
 try_again = ""
 while try_again != "n":
     # open text file
-    
+     my_file = open("mylife.txt", "w")
     # write line 1
    
     # write line 2
