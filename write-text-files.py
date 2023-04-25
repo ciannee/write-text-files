@@ -13,8 +13,8 @@ while try_again != "n":
     line_2 = "\nEnter line: Explicit is better than Implicit."
     my_file.write(line_2)
     # write line 3
-   
-    
+    line_3 = "\nEnter line: Simple is better than complex."
+    my_file.write(line_3)
     # ask user for input
    
     # if yes
